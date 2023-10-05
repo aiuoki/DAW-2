@@ -3,7 +3,7 @@
 ## 📚 Material didáctico
 - [Material Didàctic. Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2)
 - [Material Didàctic. Casos Pràctics. Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2)
-- [Material didàctic en format interactiu](https://github.com/aiuoki/DAW-2)
+- [Material didàctic en format interactiu](https://apicontent.ilernaonline.com/browse-book/80031e7d-3b39-4897-959e-5201f4341911/DAW_M06_2112_D/index.html)
 - [DAW2 - MP06 -AEA](https://github.com/aiuoki/DAW-2)
 - [JetBrains Account](https://github.com/aiuoki/DAW-2)
 
