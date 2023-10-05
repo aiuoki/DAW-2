@@ -1,4 +1,4 @@
-# ᯤ DAW 2
+# 👨🏻‍💻 DAW 2
 
 ## 🛰️ DESENVOLUPAMENT D'APLICACIONS WEB
 - [🅰️ Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client)
