@@ -8,7 +8,7 @@
 - [🗎 JetBrains Account](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/Material%20did%C3%A1ctico/JetBrains%20Account.pdf)
 
 ## Presentació
-- [📎 Presentació de curs](https://github.com/aiuoki/DAW-2)
+- [📎 Presentació de curs](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/Presentaci%C3%B3/Presentaci%C3%B3%20de%20curs/Presentaci%C3%B3%20de%20DAW2%20-%20MP06.pptx)
 - [🔗 Unir-se a Quizizz + Avaluació Inicial](https://quizizz.com/join?class=Z598650)
 
 ## UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge
