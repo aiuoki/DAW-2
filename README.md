@@ -1,14 +1,14 @@
 # Desenvolupament web en entorn client
 
 ## 📚 Material didáctico
-- [Material Didàctic. Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2)
-- [Material Didàctic. Casos Pràctics. Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2)
-- [Material didàctic en format interactiu](https://apicontent.ilernaonline.com/browse-book/80031e7d-3b39-4897-959e-5201f4341911/DAW_M06_2112_D/index.html)
-- [DAW2 - MP06 -AEA](https://github.com/aiuoki/DAW-2)
-- [JetBrains Account](https://github.com/aiuoki/DAW-2)
+- [📎 Material Didàctic. Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2)
+- [📎 Material Didàctic. Casos Pràctics. Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2)
+- [🗎 Material didàctic en format interactiu](https://apicontent.ilernaonline.com/browse-book/80031e7d-3b39-4897-959e-5201f4341911/DAW_M06_2112_D/index.html)
+- [📎 DAW2 - MP06 -AEA](https://github.com/aiuoki/DAW-2)
+- [🗎 JetBrains Account](https://github.com/aiuoki/DAW-2)
 
 ## Presentació
-- [Presentació de curs](https://github.com/aiuoki/DAW-2)
+- [📎 Presentació de curs](https://github.com/aiuoki/DAW-2)
 - [🔗 Unir-se a Quizizz + Avaluació Inicial](https://quizizz.com/join?class=Z598650)
 
 ## UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge
