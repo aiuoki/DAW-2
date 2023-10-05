@@ -1,0 +1,52 @@
+<h1>One Way Binding</h1>
+
+<ul>
+  <li>
+    <input type="button" disabled="{{ _disabled }}" value="Boton 1" />
+    <p>
+      En este ejemplo se coge el valor de la variable "_disabled" y se usa para
+      el atributo "disabled". Si el valor de la variable cambiase, no se
+      actualizaría el atributo
+    </p>
+  </li>
+  <li>
+    <input type="button" [disabled]="_disabled" value="Boton 2" />
+    <p>
+      En este ejemplo se vincula el valor de la variable "_disabled" al atributo
+      "disabled". Si el valor de la variable cambia, se actualiza el atributo
+    </p>
+  </li>
+  <li>
+    <p>
+      También se puede mostrar el contenido de una variable como si fuera texto:
+    </p>
+    <p>Contenido de la variable "_text": {{ _text }}</p>
+  </li>
+</ul>
+
+<h1>Events</h1>
+<ul>
+  <li>
+    <input
+      type="button"
+      [value]="'Valor actual disabled: ' + _disabled"
+      (click)="_disabled = !_disabled"
+    />
+    <p>
+      Cuando se apreta el botón se ejecuta el código. En este caso se cambia el
+      valor de la variable "_disabled"
+    </p>
+  </li>
+  <li>
+    <input
+      type="button"
+      value="Mostrar por consola"
+      (click)="botonClickado($event)"
+    />
+  </li>
+</ul>
+
+<h1>Two Way Binding</h1>
+<input type="text" [(ngModel)]="_inputText" />
+<p>El texto se guarda en la variable: {{ _inputText }}</p>
+<input type="button" value="Limpiar Input" (click)="_inputText = ''" />
