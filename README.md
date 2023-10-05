@@ -1,4 +1,5 @@
 # Desplegament d'aplicacions web
+### 👨‍🏫 Profesor: Guillem Mauri Jimenez - gmauri@ilerna.com
 ### [🏠 Volver a todos los cursos](https://github.com/aiuoki/DAW-2)
 ## UF4: Control de versions i documentació
 - [📎 GitHub - M08](https://github.com/aiuoki/DAW-2/blob/Desplegament-d'aplicacions-web/UF4%20Control%20de%20versions%20i%20documentaci%C3%B3/GitHub%20-%20M08/GitHub%20-%20M08.pptx)
