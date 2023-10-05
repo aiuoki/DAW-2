@@ -1,7 +1,7 @@
 # Desenvolupament web en entorn servidor
 
 ## 📚 Material
-- [🗎 Ilerna. Libro - Desarrollo web entorno servidor](https://github.com/aiuoki/DAW-2)
+- [🗎 Ilerna. Libro - Desarrollo web entorno servidor](https://apicontent.ilernaonline.com/browse-book/39d8c9ef-874b-4d9b-b6e1-6d902f83d06f/DAW_M07_2112_D/index.html)
 - [🗎 Recursos desarrollo web](https://github.com/aiuoki/DAW-2)
 - [📎 Material didàctic en format interactiu](https://github.com/aiuoki/DAW-2)
 - [📎 Presentació inicial](https://github.com/aiuoki/DAW-2)
