@@ -1,4 +1,5 @@
 # Desenvolupament web en entorn client
+### 👨‍🏫 Profesor: Valentí Casas - vcasas@ilerna.com
 ### [🏠 Volver a todos los cursos](https://github.com/aiuoki/DAW-2)
 ## 📚 Material didáctico
 - [📎 Material Didàctic. Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/Material%20did%C3%A1ctico/Material%20Did%C3%A0ctic.%20Desenvolupament%20web%20en%20entorn%20client/DAW_M06_2112_QA03%20(libro%20curso%202223).pdf)
