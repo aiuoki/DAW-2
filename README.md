@@ -1,5 +1,5 @@
 # 👨🏻‍💻 DAW 2
-
+### 👨‍🏫 Alumne: Daniel Ceban - danielceban22@alumnes.ilernalleida.com
 ## 🛰️ DESENVOLUPAMENT D'APLICACIONS WEB
 - [🅰️ Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client)
 - [🌐 Desenvolupament web en entorn servidor](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor)
