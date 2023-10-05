@@ -12,11 +12,11 @@
 - [🔗 Unir-se a Quizizz + Avaluació Inicial](https://quizizz.com/join?class=Z598650)
 
 ## UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge
- - [Síntaxis Básica TypeScript](https://github.com/aiuoki/DAW-2)
- - [Interfaces Vs. Clases](https://github.com/aiuoki/DAW-2)
- - [Ejemplo de One Way Binding, Two Way Binding and Events.zip](https://github.com/aiuoki/DAW-2)
- - [One Way Binding, Events & Two Way Binding](https://github.com/aiuoki/DAW-2)
- - [Bindings & Events](https://github.com/aiuoki/DAW-2)
+ - [📝 Síntaxis Básica TypeScript](https://github.com/aiuoki/DAW-2)
+ - [📝 Interfaces Vs. Clases](https://github.com/aiuoki/DAW-2)
+ - [📎 Ejemplo de One Way Binding, Two Way Binding and Events.zip](https://github.com/aiuoki/DAW-2)
+ - [📝 One Way Binding, Events & Two Way Binding](https://github.com/aiuoki/DAW-2)
+ - [📝 Bindings & Events](https://github.com/aiuoki/DAW-2)
 
 ## UF2. Estructures definides pel programador. Objectes
 - [vacio](https://github.com/aiuoki/DAW-2)
@@ -28,8 +28,8 @@
 - [vacio](https://github.com/aiuoki/DAW-2)
 
 ## Recursos ✔
-- [TypeScript CheatSheets](https://github.com/aiuoki/DAW-2)
-- [Links de interés](https://github.com/aiuoki/DAW-2)
-- [Teoria Angular](https://github.com/aiuoki/DAW-2)
-- [Manual Angular 4](https://github.com/aiuoki/DAW-2)
-- [Framework Vs. Librería](https://github.com/aiuoki/DAW-2)
+- [🗎 TypeScript CheatSheets](https://github.com/aiuoki/DAW-2)
+- [🗎 Links de interés](https://github.com/aiuoki/DAW-2)
+- [📎 Teoria Angular](https://github.com/aiuoki/DAW-2)
+- [📎 Manual Angular 4](https://github.com/aiuoki/DAW-2)
+- [📎 Framework Vs. Librería](https://github.com/aiuoki/DAW-2)
