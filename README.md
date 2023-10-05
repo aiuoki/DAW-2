@@ -2,10 +2,10 @@
 
 ## 📚 Material didáctico
 - [📎 Material Didàctic. Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/Material%20did%C3%A1ctico/Material%20Did%C3%A0ctic.%20Desenvolupament%20web%20en%20entorn%20client/DAW_M06_2112_QA03%20(libro%20curso%202223).pdf)
-- [📎 Material Didàctic. Casos Pràctics. Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2)
+- [📎 Material Didàctic. Casos Pràctics. Desenvolupament web en entorn client](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/Material%20did%C3%A1ctico/Material%20Did%C3%A0ctic.%20Casos%20Pr%C3%A0ctics.%20Desenvolupament%20web%20en%20entorn%20client/DAW_M06_CP_2203_QA03.pdf)
 - [🗎 Material didàctic en format interactiu](https://apicontent.ilernaonline.com/browse-book/80031e7d-3b39-4897-959e-5201f4341911/DAW_M06_2112_D/index.html)
-- [📎 DAW2 - MP06 -AEA](https://github.com/aiuoki/DAW-2)
-- [🗎 JetBrains Account](https://github.com/aiuoki/DAW-2)
+- [📎 DAW2 - MP06 -AEA](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/Material%20did%C3%A1ctico/DAW2%20-%20MP06%20-AEA/DAW2%20-%20MP06%20-AEA.pdf)
+- [🗎 JetBrains Account](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/Material%20did%C3%A1ctico/JetBrains%20Account.pdf)
 
 ## Presentació
 - [📎 Presentació de curs](https://github.com/aiuoki/DAW-2)
