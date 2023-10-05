@@ -8,10 +8,10 @@
 - [Ejemplo.PHP.zip](https://github.com/aiuoki/DAW-2)
 
 ## UF1.
-# --- APUNTS ---
+### --- APUNTS ---
 - [UF1. Modelo Vista Controlador](https://github.com/aiuoki/DAW-2)
 - [Exemple.PrimerMVC.zip](https://github.com/aiuoki/DAW-2)
-# --- ACTIVITATS ---
+### --- ACTIVITATS ---
 - [Práctica1.EjemploPHP](https://github.com/aiuoki/DAW-2)
 - [Act1. Primer proyecto PHP (P1)](https://github.com/aiuoki/DAW-2)
 - [Act1. Primer proyecto PHP (P2)](https://github.com/aiuoki/DAW-2)
