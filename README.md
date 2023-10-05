@@ -9,7 +9,7 @@
 
 ## Presentació
 - [Presentació de curs](https://github.com/aiuoki/DAW-2)
-- [Unir-se a Quizizz + Avaluació Inicial](https://quizizz.com/join?class=Z598650)
+- [🔗 Unir-se a Quizizz + Avaluació Inicial](https://quizizz.com/join?class=Z598650)
 
 ## UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge
  - [Síntaxis Básica TypeScript](https://github.com/aiuoki/DAW-2)
