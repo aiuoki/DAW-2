@@ -19,7 +19,7 @@
  - [📝 Bindings & Events](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF1.%20Sintaxi%20del%20llenguatge.%20Objectes%20predefinits%20del%20llenguatge/Bindings%20%26%20Events)
 
 ## UF2. Estructures definides pel programador. Objectes
-- [vacio](https://github.com/aiuoki/DAW-2)
+- vacio
 
 ## UF3. Esdeveniments. Manegament de formularis. Model d’objectes del document
 - [vacio](https://github.com/aiuoki/DAW-2)
