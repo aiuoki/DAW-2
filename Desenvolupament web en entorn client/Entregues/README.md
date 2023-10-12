@@ -1,4 +1,5 @@
 # Entregues
+### 👨‍🏫 Profesor: Valentí Casas - vcasas@ilerna.com
 ### [🅰️ Tornar al curs](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client)
 
 ## UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge
