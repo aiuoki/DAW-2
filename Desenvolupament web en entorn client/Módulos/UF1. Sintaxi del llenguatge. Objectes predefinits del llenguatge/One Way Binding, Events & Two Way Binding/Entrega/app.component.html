@@ -1,0 +1,41 @@
+<div id="contenedor">
+  <div class="con">
+    <h1>Ficha de personaje</h1>
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" name="nombre" value="{{fichaPersonaje.nombre}}" [(ngModel)]="fichaPersonaje.nombre">
+    <br>
+    <label for="fuerza">Fuerza:</label>
+    <input type="text" id="fuerza" name="fuerza" class="num" value="{{fichaPersonaje.fuerza}}" disabled>
+    <br>
+    <label for="destreza">Destreza:</label>
+    <input type="text" id="destreza" name="destreza" class="num" value="{{fichaPersonaje.destreza}}" disabled>
+    <br>
+    <label for="inteligencia">Inteligencia:</label>
+    <input type="text" id="inteligencia" name="inteligencia" class="num" value="{{fichaPersonaje.inteligencia}}" disabled>
+    <br>
+    <label for="constitucion">Constitucion:</label>
+    <input type="text" id="constitucion" name="constitucion" class="num" value="{{fichaPersonaje.constitucion}}" disabled>
+    <br>
+    <input type="button" value="Generar" (click)="botonGenerar()">
+    <br>
+    <input type="button" value="Guardar" (click)="botonGuardar()">
+  </div>
+
+  <div class="con">
+    <h1>Personaje guardado</h1>
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" name="nombre" value="{{personajeGuardado.nombre}}" disabled>
+    <br>
+    <label for="fuerza">Fuerza:</label>
+    <input type="text" id="fuerza" name="fuerza" class="num" value="{{personajeGuardado.fuerza}}" disabled>
+    <br>
+    <label for="destreza">Destreza:</label>
+    <input type="text" id="destreza" name="destreza" class="num" value="{{personajeGuardado.destreza}}" disabled>
+    <br>
+    <label for="inteligencia">Inteligencia:</label>
+    <input type="text" id="inteligencia" name="inteligencia" class="num" value="{{personajeGuardado.inteligencia}}" disabled>
+    <br>
+    <label for="constitucion">Constitucion:</label>
+    <input type="text" id="constitucion" name="constitucion" class="num" value="{{personajeGuardado.constitucion}}" disabled>
+  </div>
+</div>

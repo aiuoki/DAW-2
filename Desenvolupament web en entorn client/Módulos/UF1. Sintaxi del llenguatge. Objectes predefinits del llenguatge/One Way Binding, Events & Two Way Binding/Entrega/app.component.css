@@ -1,0 +1,11 @@
+#contenedor {
+  display: flex;
+}
+
+.con {
+  width: 350px;
+}
+
+.num {
+  width: 40px;
+}
