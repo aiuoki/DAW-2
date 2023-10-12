@@ -8,16 +8,6 @@ interface Personaje {
   constitucion?: number;
 }
 
-let fichaPersonaje: Personaje = {}
-let personajeGuardado: Personaje = {}
-
-let nombres: string[] = ['Ernesto','Calisto','Lorenzo','Alexis','Adolfo','Gabriel','Fidel','Emiliano','Alfonso','Juan Antonio',
-  'Margarita','Francisca','Iraida','Rut','Alondra','Maricarmen','Mireya','Aroa','Estela','Octavia','Luna'];
-
-function numAleatorio(): number {
-  return Math.floor(Math.random()*21);
-}
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -25,23 +15,30 @@ function numAleatorio(): number {
 })
 export class AppComponent {
 
+  fichaPersonaje: Personaje = {}
+  personajeGuardado: Personaje = {}
+
+  nombres: string[] = ['Ernesto','Calisto','Lorenzo','Alexis','Adolfo','Gabriel','Fidel','Emiliano','Alfonso','Juan Antonio',
+    'Margarita','Francisca','Iraida','Rut','Alondra','Maricarmen','Mireya','Aroa','Estela','Octavia','Luna'];
+
+  numAleatorio(): number {
+    return Math.floor(Math.random()*21);
+  }
+
   botonGenerar(): void {
-    fichaPersonaje.nombre = nombres[numAleatorio()];
-    fichaPersonaje.fuerza = numAleatorio();
-    fichaPersonaje.destreza = numAleatorio();
-    fichaPersonaje.inteligencia = numAleatorio();
-    fichaPersonaje.constitucion = numAleatorio();
+    this.fichaPersonaje.nombre = this.nombres[this.numAleatorio()];
+    this.fichaPersonaje.fuerza = this.numAleatorio();
+    this.fichaPersonaje.destreza = this.numAleatorio();
+    this.fichaPersonaje.inteligencia = this.numAleatorio();
+    this.fichaPersonaje.constitucion = this.numAleatorio();
   }
 
   botonGuardar(): void {
-    personajeGuardado.nombre = fichaPersonaje.nombre;
-    personajeGuardado.fuerza = fichaPersonaje.fuerza;
-    personajeGuardado.destreza = fichaPersonaje.destreza;
-    personajeGuardado.inteligencia = fichaPersonaje.inteligencia;
-    personajeGuardado.constitucion = fichaPersonaje.constitucion;
+    this.personajeGuardado.nombre = this.fichaPersonaje.nombre;
+    this.personajeGuardado.fuerza = this.fichaPersonaje.fuerza;
+    this.personajeGuardado.destreza = this.fichaPersonaje.destreza;
+    this.personajeGuardado.inteligencia = this.fichaPersonaje.inteligencia;
+    this.personajeGuardado.constitucion = this.fichaPersonaje.constitucion;
   }
-
-  protected readonly fichaPersonaje = fichaPersonaje;
-  protected readonly personajeGuardado = personajeGuardado;
 
 }
