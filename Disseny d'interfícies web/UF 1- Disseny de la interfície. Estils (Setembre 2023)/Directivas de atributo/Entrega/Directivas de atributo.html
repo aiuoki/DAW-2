@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Directivas de atributo</title>
+
+    <style>
+
+        /* Estilo de los paragrafos */
+
+        p {
+            font-size: 20px;
+            font-weight: bold;
+        }
+        
+        /* Estilo del contenedor que guarda el texto de los dias festivos */
+        
+        .festius {
+            display: flex;
+            align-items: center;
+            height: 30px;
+            width: 1010px;
+            margin-bottom: 15px;
+        }
+
+        /* Tamaño que va a ocupar cada texto de los festivos */
+        .festius p {
+            height: 20px;
+            width: 250px;
+        }
+
+        /* Colores de los dias festivos */
+
+        .festius p:nth-child(1) {
+            color: rgb(73, 227, 124);
+        }
+
+        .festius p:nth-child(2) {
+            color: rgb(122, 101, 214);
+        }
+
+        .festius p:nth-child(3) {
+            color: rgb(225, 77, 176);
+        }
+        
+        .festius p:nth-child(4) {
+            color: rgb(202, 226, 82);
+        }
+
+        /* Estilo del contenedor de los calendarios */
+
+        .calendarios {
+            display: flex;
+        }
+
+        /* Estilo del contenedor del calendario */
+
+        .calendario {
+            border: 1px solid rgb(0, 0, 0);
+            height: 350px;
+            width: 320px;
+            border-radius: 10px;
+            box-shadow: 2px 3px;
+        }
+
+        /* Margenes del texto que indica el mes en el calendario */
+
+        .calendario p {
+            margin-top: 15px;
+            margin-left: 20px;
+            margin-bottom: 10px;
+        }
+
+        /* Margen entre el calendario de septiembre y el de octubre */
+
+        #septiembre {
+            margin-right: 10px;
+        }
+
+        /* Estilo de la tabla */
+
+        table {
+            border-spacing: 5px;
+            margin: auto;
+            text-align: center;
+            font-size: 15px;
+        }
+
+        /* Estilo de la celda de encabezado */
+
+        th {
+            background-color: rgb(51, 51, 51);
+            color: rgb(255, 255, 255);
+            padding: 10px;
+            border-radius: 100%;
+        }
+
+        /* Estilo de la celda de datos */
+
+        td {
+            padding: 10px;
+            border-radius: 100%;
+        }
+
+        /* Colores de los destivos en las celdas de datos */
+
+        #septiembre tr:nth-child(2) td:nth-child(7) {
+            background-color: rgb(122, 101, 214);
+        }
+
+        #septiembre tr:nth-child(5) td:nth-child(4) {
+            background-color: rgb(225, 77, 176);
+        }
+
+        #octubre tr:nth-child(3) td:nth-child(3) {
+            background-color: rgb(73, 227, 124);
+        }
+
+        #octubre tr:nth-child(6) td:nth-child(1) {
+            background-color: rgb(202, 226, 82);
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <!-- contenedor festius -->
+    
+    <div class="festius">
+        <p>Festiu Nacional</p>
+        <p>Festiu Regional</p>
+        <p>Festiu Local</p>
+        <p>Festiu Centre</p>
+    </div>
+
+    <!-- contenedor calendarios -->
+
+    <div class="calendarios">
+
+        <!-- contenedor calendario septiembre -->
+
+        <div id="septiembre" class="calendario">
+            <p>Septiembre</p>
+
+            <!-- tabla calendario -->
+
+            <table>
+
+                <!-- cabecera de la tabla -->
+
+                <thead>
+                    <tr>
+                        <th>L</th>
+                        <th>M</th>
+                        <th>X</th>
+                        <th>J</th>
+                        <th>V</th>
+                        <th>S</th>
+                        <th>D</th>
+                    </tr>
+                </thead>
+
+                <!-- cuerpo de la tabla -->
+
+                <tbody>
+                    <tr>
+                        <td colspan="3"></td>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>3</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>6</td>
+                        <td>7</td>
+                        <td>8</td>
+                        <td>9</td>
+                        <td>10</td>
+                        <td>11</td>
+                    </tr>
+                    <tr>
+                        <td>12</td>
+                        <td>13</td>
+                        <td>14</td>
+                        <td>15</td>
+                        <td>16</td>
+                        <td>17</td>
+                        <td>18</td>
+                    </tr>
+                    <tr>
+                        <td>19</td>
+                        <td>20</td>
+                        <td>21</td>
+                        <td>22</td>
+                        <td>23</td>
+                        <td>24</td>
+                        <td>25</td>
+                    </tr>
+                    <tr>
+                        <td>26</td>
+                        <td>27</td>
+                        <td>28</td>
+                        <td>29</td>
+                        <td>30</td>
+                    </tr>
+                </tbody>
+
+            </table>
+
+        </div>
+
+        <!-- contenedor calendario octubre -->
+    
+        <div id="octubre" class="calendario">
+            <p>Octubre</p>
+
+            <!-- tabla calendario -->
+
+            <table>
+
+                <!-- cabecera de la tabla -->
+
+                <thead>
+                    <tr>
+                        <th>L</th>
+                        <th>M</th>
+                        <th>X</th>
+                        <th>J</th>
+                        <th>V</th>
+                        <th>S</th>
+                        <th>D</th>
+                    </tr>
+                </thead>
+
+                <!-- cuerpo de la tabla -->
+                
+                <tbody>
+                    <tr>
+                        <td colspan="5"></td>
+                        <td>1</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>4</td>
+                        <td>5</td>
+                        <td>6</td>
+                        <td>7</td>
+                        <td>8</td>
+                        <td>9</td>
+                    </tr>
+                    <tr>
+                        <td>10</td>
+                        <td>11</td>
+                        <td>12</td>
+                        <td>13</td>
+                        <td>14</td>
+                        <td>15</td>
+                        <td>16</td>
+                    </tr>
+                    <tr>
+                        <td>17</td>
+                        <td>18</td>
+                        <td>19</td>
+                        <td>20</td>
+                        <td>21</td>
+                        <td>22</td>
+                        <td>23</td>
+                    </tr>
+                    <tr>
+                        <td>24</td>
+                        <td>25</td>
+                        <td>26</td>
+                        <td>27</td>
+                        <td>28</td>
+                        <td>29</td>
+                        <td>30</td>
+                    </tr>
+                    <tr>
+                        <td>31</td>
+                    </tr>
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
