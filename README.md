@@ -1,6 +1,7 @@
 # Desenvolupament web en entorn servidor
 ### 👩‍🏫 Profesora: Sandra Serrano Rojo - sserrano@ilerna.com
 ### [🏠 Tornar a tots els cursos](https://github.com/aiuoki/DAW-2)
+### [📁 Entregues](https://github.com/aiuoki/DAW-2)
 ## 📚 Material
 - [🗎 Ilerna. Libro - Desarrollo web entorno servidor](https://apicontent.ilernaonline.com/browse-book/39d8c9ef-874b-4d9b-b6e1-6d902f83d06f/DAW_M07_2112_D/index.html)
 - [🗎 Recursos desarrollo web](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/Material/Recursos%20desarrollo%20web.pdf)
