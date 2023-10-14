@@ -1,16 +1,10 @@
 # Entregues
-### 👨‍🏫 Profesor: Valentí Casas - vcasas@ilerna.com
-### [🅰️ Tornar al curs](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client)
+### 👨‍🏫 Profesor: Yassine El Kihal - yelkihal@ilerna.com
+### [🕸️ Tornar al curs](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interfícies-web)
 
-## UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge
- - [📝 Síntaxis Básica TypeScript](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF1.%20Sintaxi%20del%20llenguatge.%20Objectes%20predefinits%20del%20llenguatge/S%C3%ADntaxis%20B%C3%A1sica%20TypeScript/Entrega)
- - [📝 Interfaces Vs. Clases](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF1.%20Sintaxi%20del%20llenguatge.%20Objectes%20predefinits%20del%20llenguatge/Interfaces%20Vs.%20Clases/Entrega)
- - [📝 One Way Binding, Events & Two Way Binding](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF1.%20Sintaxi%20del%20llenguatge.%20Objectes%20predefinits%20del%20llenguatge/One%20Way%20Binding%2C%20Events%20%26%20Two%20Way%20Binding/Entrega)
- - [📝 Bindings & Events](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF1.%20Sintaxi%20del%20llenguatge.%20Objectes%20predefinits%20del%20llenguatge/Bindings%20%26%20Events/Entrega)
-
-## UF2. Estructures definides pel programador. Objectes
-
-## UF3. Esdeveniments. Manegament de formularis. Model d’objectes del document
-
-## UF4. Comunicació asíncrona client-servidor
-
+## UF 1- Disseny de la interfície. Estils (Setembre 2023)
+- [📝 Conceptos básicos Diseño Web](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Conceptos%20b%C3%A1sicos%20Dise%C3%B1o%20Web/Entrega/Conceptos%20b%C3%A1sicos%20Dise%C3%B1o%20Web.pdf)
+- [📝 Prototip en paper + CMS](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Prototip%20en%20paper%20%2B%20CMS/Entrega)
+- [📝 Activitat-1-2-3 HTML + Style](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Activitat-1-2-3%20HTML%20%2B%20Style/Entrega)
+- [📝 Act1-Taula Amb estil](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Act1-Taula%20Amb%20estil/Entrega/Act1-Taula%20Amb%20estil.html)
+- [📝 Directivas de atributo](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Directivas%20de%20atributo)
