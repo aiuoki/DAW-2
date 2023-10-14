@@ -1,7 +1,7 @@
 # Disseny d'interfícies web
 ### 👨‍🏫 Profesor: Yassine El Kihal - yelkihal@ilerna.com
 ### [🏠 Tornar a tots els cursos](https://github.com/aiuoki/DAW-2)
-### [📁 Entregues](https://github.com/aiuoki/DAW-2)
+### [📁 Entregues](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/Entregues)
 ## UF 1- Disseny de la interfície. Estils (Setembre 2023)
 - [📎 Benvinguts al mon del disseny web.pdf](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Benvinguts%20al%20mon%20del%20disseny%20web.pdf/Benvinguts%20al%20mon%20del%20disseny%20web.pdf)
 - [📝 Conceptos básicos Diseño Web](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Conceptos%20b%C3%A1sicos%20Dise%C3%B1o%20Web/Entrega/Conceptos%20b%C3%A1sicos%20Dise%C3%B1o%20Web.pdf)
