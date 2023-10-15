@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        body {
+            background-color: #b899e4;
+            font-family: 'Inter', sans-serif;
+        }
+
+        #menu {
+            height: 80px;
+            width: 100%;
+            box-shadow: 0px 2px rgb(92, 91, 91);
+            display: flex;
+        }
+
+        #menu a {
+            text-decoration: none;
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        #principal {
+            color: #ffffff;
+            height: 50px;
+            margin: 20px;
+        }
+
+        .negro {
+            color: #000000;
+        }
+
+        #menu-central {
+            height: 50px;
+            margin: 20px;
+            margin-left: 500px;
+            margin-right: 420px;
+        }
+
+        #menu a:nth-child(2) {
+            margin-left: 70px;
+            margin-right: 70px;
+        }
+
+        #carrito {
+            height: 50px;
+            margin: 20px;   
+        }
+
+        #contacto {
+            height: 700px;
+            width: 1000px;
+            padding-top: 30px;
+            padding-left: 400px;
+        }
+
+        #contacto h1 {
+            color: #ffffff;
+            text-align: center;
+        }
+
+        #formulario {
+            background-color: #a36af3;
+            height: 550px;
+            width: 950px;
+            margin-top: 60px;
+            padding-left: 50px;
+            padding-top: 50px;
+            border-radius: 25px;
+        }
+
+        .param {
+            padding-bottom: 40px;
+        }
+
+        #formulario label {
+            font-size: 18px;
+        }
+
+        #formulario input[type="text"] {
+            background-color: #751ff0;
+            border: none;
+            height: 40px;
+            width: 300px;
+            border-radius: 15px;
+            margin-top: 20px;
+        }
+
+        #formulario input[type="submit"] {
+            background-color: #e5cff7;
+            border: none;
+            height: 40px;
+            width: 180px;
+            border-radius: 20px;
+            box-shadow: 2px 2px 2px #751ff0;
+            font-size: 16px;
+        }
+
+        footer {
+            background-color: #751ff0;
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: 50px;
+            width: 100%;
+            overflow: hidden;
+            text-align: center;
+        }
+        
+    </style>
+</head>
+<body>
+    <div id="menu">
+        <a href="index.html" id="principal">Ice Breakers</a>
+        <div id="menu-central">
+            <a href="tienda.html" class="negro">Tienda</a>
+            <a href="acercade.html" class="negro">Acerca de</a>
+            <a href="contacto.html" class="negro">Contacto</a>
+        </div>
+        <a id="carrito" href="carrito.html" class="negro">Mi Carrito</a>
+    </div>
+    <div id="contacto">
+        <h1>PONTE EN CONTACTO</h1>
+        <div id="formulario">
+            <form action="">
+                <div class="param">
+                    <label for="nombre">Nombre</label><br>
+                    <input type="text" id="nombre"><br>
+                </div>
+                <div class="param">
+                    <label for="correo">Correo</label><br>
+                    <input type="text" id="correo"><br>
+                </div>
+                <div class="param">
+                    <label for="mensaje">Mensaje</label><br>
+                    <input type="text" id="mensaje"><br>
+                </div>
+                <div class="param">
+                    <input type="submit" value="Enviar">
+                </div>
+            </form>
+        </div>
+    </div>
+    <footer>
+        <p>© 2023 Ice Breakers S.p.A. - Todos los derechos reservados. G Commerce Europe S.p.A. - ES VAT nr 05142860239.</p>
+    </footer>
+</body>
+</html>
