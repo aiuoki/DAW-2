@@ -13,3 +13,5 @@
 - [📎 Activitat-Taula.pdf](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Activitat-Taula.pdf/Activitat-Taula.pdf)
 - [📝 Act1-Taula Amb estil](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Act1-Taula%20Amb%20estil/Entrega/Act1-Taula%20Amb%20estil.html)
 - [📝 Directivas de atributo](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Directivas%20de%20atributo)
+- [📎 Práctica 1. Prototipado y estructura básica HTML.pdf]()
+- [📝 Practica 1 - Entrega]()
