@@ -36,7 +36,7 @@
     <label for="life">Life:</label>
     <input type="text" name="life" [value]="serverCharacters[1].life" [(ngModel)]="serverCharacters[1].life" [disabled]="_editable[1]">
 
-    <input type="button" value="_btnValue[1]" (click)="boton(1)">
+    <input type="button" [value]="_btnValue[1]" (click)="boton(1)">
   </div>
 
   <div class="card">
