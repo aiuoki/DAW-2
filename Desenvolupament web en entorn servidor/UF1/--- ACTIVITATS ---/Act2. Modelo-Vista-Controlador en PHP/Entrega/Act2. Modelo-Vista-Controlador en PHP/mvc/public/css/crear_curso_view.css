@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(226, 248, 244);
+    font-family: "Lato Extended", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.contenedor {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(213, 241, 241);
+    border: 2px solid rgb(131, 227, 240);
+    box-shadow: 1px 2px rgb(107, 190, 238);
+    border-radius: 5%;
+    padding-top: 10px;
+    text-align: center;
+    /* centrar en medio de la pagina */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    color: rgb(112, 221, 235);
+    text-shadow: 2px 2px rgb(82, 148, 224);
+}
+
+input, button {
+    height: 25px;
+    width: 250px;
+    border: 1px solid rgb(125, 189, 231);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+input:focus {
+    outline: none;
+    border: 1px solid rgb(125, 174, 238);
+    box-shadow: 0 0 10px rgb(0, 119, 255);
+}
+
+button {
+    color: rgb(122, 218, 231);
+    text-shadow: 1px 1px rgb(59, 133, 243);
+    font-weight: bold;
+    background-color: rgb(179, 220, 247);
+    height: 31px;
+    width: 110px;
+    box-shadow: 1px 2px rgb(124, 215, 238);
+    margin-top: 40px;
+}
+
+#volver {
+    color: rgb(224, 206, 100); 
+    background-color: rgb(247, 237, 179);
+    border: 1px solid rgb(231, 215, 125);
+    text-shadow: 1px 1px rgb(175, 162, 42);
+    box-shadow: 1px 2px rgb(238, 221, 124);
+    margin-top: 90px;
+}

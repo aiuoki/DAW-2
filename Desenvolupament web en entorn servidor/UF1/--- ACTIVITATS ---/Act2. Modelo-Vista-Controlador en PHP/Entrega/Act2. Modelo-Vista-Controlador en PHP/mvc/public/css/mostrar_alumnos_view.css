@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(248, 236, 226);
+    font-family: "Lato Extended", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.contenedor {
+    height: 800px;
+    width: 700px;
+    background-color: rgb(241, 226, 213);
+    border: 2px solid rgb(240, 180, 131);
+    box-shadow: 1px 2px rgb(238, 159, 107);
+    border-radius: 5%;
+    padding-top: 10px;
+    text-align: center;
+    /* centrar en medio de la pagina */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    color: rgb(235, 161, 112);
+    text-shadow: 2px 2px rgb(224, 146, 82);
+}
+
+table {
+    margin-left: 20px;
+    border: 3px solid rgb(235, 161, 112);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+th, td {
+    border: 2px solid rgb(235, 167, 112);
+}
+
+th {
+    color: rgb(235, 161, 112);
+    width: 150px;
+}
+
+td {
+    color: rgb(85, 85, 85);
+}
+
+button {
+    border-radius: 5px;
+    font-weight: bold;
+    height: 31px;
+    width: 110px;
+    color: rgb(224, 206, 100); 
+    background-color: rgb(247, 237, 179);
+    border: 1px solid rgb(231, 215, 125);
+    text-shadow: 1px 1px rgb(175, 162, 42);
+    box-shadow: 1px 2px rgb(238, 221, 124);
+    margin-top: 90px;
+    /* posicion del boton */
+    position: absolute;
+    top: 87%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
