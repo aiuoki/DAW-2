@@ -2,9 +2,6 @@
 // Incluir el archivo alumnos_model.php
 require_once '../models/alumnos_model.php';
 
-// Obtener la conexión a la base de datos
-$conexion = Conectar::conexion();
-
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     // Obtener los datos enviados por el formulario
     $nombre = $_POST['nombre'];
