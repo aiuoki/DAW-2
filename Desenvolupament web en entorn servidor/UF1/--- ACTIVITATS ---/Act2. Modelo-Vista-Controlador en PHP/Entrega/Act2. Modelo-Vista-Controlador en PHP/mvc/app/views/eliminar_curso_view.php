@@ -16,8 +16,6 @@
                 <option value="">Seleccione un curso</option>
                 <?php
                     require_once '../controllers/cursos_controller.php';
-                    // Obtener los cursos utilizando la función obtenerCursos del modelo
-                    $cursos = CursosModel::mostrarCursos();
                     // Recorrer los cursos y crear una opción para cada uno
                     foreach ($cursos as $curso) {
                         echo "<option value='". $curso['nombre'] ."'>". $curso['nombre'] ."</option>";
