@@ -22,8 +22,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 } else {
     // Obtener todos los alumnos utilizando la función mostrarAlumnos del modelo
     $alumnos = AlumnosModel::mostrarAlumnos();
-
-    // Incluir la vista mostrar_alumnos_view.php
-    require_once '../views/mostrar_alumnos_view.php';
 }
 ?>
