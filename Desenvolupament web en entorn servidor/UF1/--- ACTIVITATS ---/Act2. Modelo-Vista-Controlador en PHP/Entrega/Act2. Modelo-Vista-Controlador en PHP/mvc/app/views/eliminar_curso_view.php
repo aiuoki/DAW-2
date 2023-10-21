@@ -11,7 +11,19 @@
     <div class="contenedor">
         <h1>Eliminar Curso</h1>
         <form action="../controllers/cursos_controller.php" method="post">
-            <input type="text" name="nombre" pattern="[A-Za-z0-9]+" maxlength="60" placeholder="nombre" required>
+            <!-- <input type="text" name="nombre" pattern="[A-Za-z0-9]+" maxlength="60" placeholder="nombre" required> -->
+            <select name="nombre" required>
+                <option value="">Seleccione un curso</option>
+                <?php
+                    require_once '../controllers/cursos_controller.php';
+                    // Obtener los cursos utilizando la función obtenerCursos del modelo
+                    $cursos = CursosModel::mostrarCursos();
+                    // Recorrer los cursos y crear una opción para cada uno
+                    foreach ($cursos as $curso) {
+                        echo "<option value='". $curso['nombre'] ."'>". $curso['nombre'] ."</option>";
+                    }
+                ?>
+            </select>
             <button type="submit" name="eliminar">Eliminar</button>
         </form>
         <button id="volver" onclick="window.location.href = 'index.php';">Volver</button>

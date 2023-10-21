@@ -24,7 +24,7 @@ h1 {
     text-shadow: 2px 2px rgb(224, 82, 82);
 }
 
-input, button {
+input, select, button {
     height: 25px;
     width: 250px;
     border: 1px solid rgb(231, 125, 125);
@@ -32,7 +32,12 @@ input, button {
     margin-top: 20px;
 }
 
-input:focus {
+select {
+    height: 30px;
+    width: 255px;
+}
+
+input:focus, select:focus {
     outline: none;
     border: 1px solid rgb(238, 125, 125);
     box-shadow: 0 0 10px rgb(255, 0, 0);

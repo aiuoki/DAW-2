@@ -24,7 +24,7 @@ h1 {
     text-shadow: 2px 2px rgb(224, 82, 217);
 }
 
-input, button {
+input, select, button {
     height: 25px;
     width: 250px;
     border: 1px solid rgb(231, 125, 231);
@@ -32,14 +32,10 @@ input, button {
     margin-top: 20px;
 }
 
-/*
 select {
-    height: 31px;
-    width: 258px;
-    border: 1px solid rgb(231, 125, 142);
-    border-radius: 5px;
+    height: 30px;
+    width: 255px;
 }
-*/
 
 input:focus, select:focus {
     outline: none;
