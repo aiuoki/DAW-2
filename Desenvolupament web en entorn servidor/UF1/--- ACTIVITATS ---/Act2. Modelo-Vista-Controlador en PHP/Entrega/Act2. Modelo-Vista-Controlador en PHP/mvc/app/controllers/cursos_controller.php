@@ -26,8 +26,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 } else {
     // Obtener todos los cursos utilizando la función mostrarCursos del modelo
     $cursos = CursosModel::mostrarCursos();
-
-    // Incluir la vista mostrar_cursos_view.php
-    require_once '../views/mostrar_cursos_view.php';
 }
 ?>
