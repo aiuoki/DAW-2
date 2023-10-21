@@ -1,6 +1,5 @@
 <?php
-// Incluir los archivos db.php y alumnos_model.php
-require_once '../db/db.php';
+// Incluir el archivo alumnos_model.php
 require_once '../models/alumnos_model.php';
 
 // Obtener la conexión a la base de datos
