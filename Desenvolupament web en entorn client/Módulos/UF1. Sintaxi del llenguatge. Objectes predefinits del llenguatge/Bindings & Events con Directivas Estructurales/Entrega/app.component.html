@@ -1,0 +1,25 @@
+<div class="card-container">
+  <div class="card" *ngFor="let character of serverCharacters">
+    <!-- Aquí va toda la información del character para que se vea en formato Card -->
+    <label for="name">Name:</label>
+    <input type="text" name="name" [(ngModel)]="character.name" [disabled]="character._btnEdit">
+
+    <label for="strength" [hidden]="character._btnShow">Strength:</label>
+    <input type="text" name="strength" [(ngModel)]="character.strength" [disabled]="character._btnEdit" [hidden]="character._btnShow">
+
+    <label for="agility" [hidden]="character._btnShow">Agility:</label>
+    <input type="text" name="agility" [(ngModel)]="character.agility" [disabled]="character._btnEdit" [hidden]="character._btnShow">
+
+    <label for="intelligence" [hidden]="character._btnShow">Intelligence:</label>
+    <input type="text" name="intelligence" [(ngModel)]="character.intelligence" [disabled]="character._btnEdit" [hidden]="character._btnShow">
+
+    <label for="life" [hidden]="character._btnShow">Life:</label>
+    <input type="text" name="life" [(ngModel)]="character.life" [disabled]="character._btnEdit" [hidden]="character._btnShow">
+
+    <input type="button" [value]="character._valueBtnEdit" (click)="btnEdit(character)" [hidden]="character._btnShow">
+    <input type="button" [value]="character._valueBtnShow" (click)="btnShow(character)">
+  </div>
+
+  <!-- Dentro del parágrafo va la información del Character que se está modifcando -->
+  <p>{{_paragrafo}}</p>
+</div>
