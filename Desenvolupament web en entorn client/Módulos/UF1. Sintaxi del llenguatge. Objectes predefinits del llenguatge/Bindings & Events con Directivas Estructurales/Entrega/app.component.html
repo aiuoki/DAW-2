@@ -4,19 +4,22 @@
     <label for="name">Name:</label>
     <input type="text" name="name" [(ngModel)]="character.name" [disabled]="character._btnEdit">
 
-    <label for="strength" [hidden]="character._btnShow">Strength:</label>
-    <input type="text" name="strength" [(ngModel)]="character.strength" [disabled]="character._btnEdit" [hidden]="character._btnShow">
+    <div class="grid" *ngIf="character._btnShow">
+      <label for="strength">Strength:</label>
+      <input type="text" name="strength" [(ngModel)]="character.strength" [disabled]="character._btnEdit">
 
-    <label for="agility" [hidden]="character._btnShow">Agility:</label>
-    <input type="text" name="agility" [(ngModel)]="character.agility" [disabled]="character._btnEdit" [hidden]="character._btnShow">
+      <label for="agility">Agility:</label>
+      <input type="text" name="agility" [(ngModel)]="character.agility" [disabled]="character._btnEdit">
 
-    <label for="intelligence" [hidden]="character._btnShow">Intelligence:</label>
-    <input type="text" name="intelligence" [(ngModel)]="character.intelligence" [disabled]="character._btnEdit" [hidden]="character._btnShow">
+      <label for="intelligence">Intelligence:</label>
+      <input type="text" name="intelligence" [(ngModel)]="character.intelligence" [disabled]="character._btnEdit">
 
-    <label for="life" [hidden]="character._btnShow">Life:</label>
-    <input type="text" name="life" [(ngModel)]="character.life" [disabled]="character._btnEdit" [hidden]="character._btnShow">
+      <label for="life">Life:</label>
+      <input type="text" name="life" [(ngModel)]="character.life" [disabled]="character._btnEdit">
 
-    <input type="button" [value]="character._valueBtnEdit" (click)="btnEdit(character)" [hidden]="character._btnShow">
+      <input type="button" [value]="character._valueBtnEdit" (click)="btnEdit(character)">
+    </div>
+
     <input type="button" [value]="character._valueBtnShow" (click)="btnShow(character)">
   </div>
 
