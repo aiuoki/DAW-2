@@ -15,3 +15,11 @@
 .card > input {
   margin-bottom: 10px;
 }
+
+.grid {
+  display: grid;
+}
+
+.grid > input {
+  margin-bottom: 10px;
+}
