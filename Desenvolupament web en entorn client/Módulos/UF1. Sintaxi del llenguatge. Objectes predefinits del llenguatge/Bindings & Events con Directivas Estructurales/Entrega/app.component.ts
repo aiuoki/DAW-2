@@ -40,20 +40,20 @@ export class AppComponent {
     character._btnShow = !character._btnShow;
 
     if(character._btnShow == true) {
-      character._valueBtnShow = "Show";
-    } else {
       character._valueBtnShow = "Hide";
+    } else {
+      character._valueBtnShow = "Show";
     }
   }
 
   constructor() {
     // Ejemplo de respuesta de un servidor en formato JSON
     const serverJson = `[
-      {"name": "Jugger", "strength": 18, "agility": 12, "intelligence": 6, "life": 30, "_btnEdit": true, "_valueBtnEdit": "Edit", "_btnShow": true, "_valueBtnShow": "Show" },
-      {"name": "Pelegrin", "strength": 20, "agility": 8, "intelligence": 6, "life": 40, "_btnEdit": true, "_valueBtnEdit": "Edit", "_btnShow": true, "_valueBtnShow": "Show" },
-      {"name": "Dorthak", "strength": 12, "agility": 18, "intelligence": 10, "life": 16, "_btnEdit": true, "_valueBtnEdit": "Edit", "_btnShow": true, "_valueBtnShow": "Show" },
-      {"name": "Kharak", "strength": 8, "agility": 20, "intelligence": 12, "life": 14, "_btnEdit": true, "_valueBtnEdit": "Edit", "_btnShow": true, "_valueBtnShow": "Show" },
-      {"name": "Perz", "strength": 10, "agility": 6, "intelligence": 20, "life": 10, "_btnEdit": true, "_valueBtnEdit": "Edit", "_btnShow": true, "_valueBtnShow": "Show" }
+      {"name": "Jugger", "strength": 18, "agility": 12, "intelligence": 6, "life": 30, "_btnEdit": true, "_valueBtnEdit": "Edit", "_btnShow": false, "_valueBtnShow": "Show" },
+      {"name": "Pelegrin", "strength": 20, "agility": 8, "intelligence": 6, "life": 40, "_btnEdit": true, "_valueBtnEdit": "Edit", "_btnShow": false, "_valueBtnShow": "Show" },
+      {"name": "Dorthak", "strength": 12, "agility": 18, "intelligence": 10, "life": 16, "_btnEdit": true, "_valueBtnEdit": "Edit", "_btnShow": false, "_valueBtnShow": "Show" },
+      {"name": "Kharak", "strength": 8, "agility": 20, "intelligence": 12, "life": 14, "_btnEdit": true, "_valueBtnEdit": "Edit", "_btnShow": false, "_valueBtnShow": "Show" },
+      {"name": "Perz", "strength": 10, "agility": 6, "intelligence": 20, "life": 10, "_btnEdit": true, "_valueBtnEdit": "Edit", "_btnShow": false, "_valueBtnShow": "Show" }
     ]`;
 
     // Parseamos la información y la convertimos directamente en un array de "Character"
