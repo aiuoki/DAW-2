@@ -1,0 +1,38 @@
+.main {
+    text-align: center;
+    display: grid;
+    place-content: center;
+}
+
+.contenido p {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.contenido img {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: block;
+}
+
+.contenido button {
+    background: #e5cff7;
+    font-size: 22px;
+    font-weight: 500;
+    border: none;
+    border-radius: 20px;
+    height: 70px;
+    width: 300px;
+    box-shadow: 0px 5px 5px 0px #2e2e2e;
+    cursor: pointer;
+    position: relative;
+}
+
+.contenido button:hover {
+    background: #dcbff5;
+}
+
+.contenido button:active {
+    top: 2px;
+}

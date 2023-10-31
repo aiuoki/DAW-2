@@ -1,0 +1,31 @@
+.main {
+    text-align: left;
+    display: grid;
+    place-content: center;
+    padding: 4em;
+}
+
+.contenido h1 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    display: block;
+}
+
+.contenido h2 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 35px;
+    display: block;
+}
+
+.contenido p {
+    font-size: 20px;
+    font-weight: 450;
+    margin-bottom: 35px;
+    display: block;
+}
+
+.contenido p:last-child {
+    margin-bottom: 0px;
+}

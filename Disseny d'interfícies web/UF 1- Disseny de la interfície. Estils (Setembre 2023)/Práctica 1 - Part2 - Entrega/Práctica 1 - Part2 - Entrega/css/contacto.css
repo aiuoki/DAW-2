@@ -1,0 +1,107 @@
+.main {
+    text-align: center;
+    display: grid;
+    place-content: center;
+    padding-bottom: 1em;
+}
+
+.contenido p {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.form {
+    background: #9f69eb;
+    display: grid;
+    place-content: center;
+    border-radius: 15px;
+
+    /* paddings */
+    padding-left: 4.5em;
+    padding-right: 4.5em;
+    padding-top: 4em;
+    padding-bottom: 3.3em;
+}
+
+.contenedor-inputs {
+    display: flex;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+.seccion-izquierda {
+    margin-right: 100px;
+    display: grid;
+    justify-content: space-between;
+}
+
+.input {
+    display: grid;
+}
+
+.contenedor-inputs label {
+    font-size: 20px;
+}
+
+.contenedor-inputs input, textarea {
+    background: #722fea;
+    border: none;
+    font-size: 16px;
+    padding: 1em;
+    color: #fff;
+    border-radius: 15px;
+    outline: 1px solid #5b27bd;
+}
+
+.contenedor-inputs input:-webkit-autofill, .contenedor-inputs input:-webkit-autofill:focus {
+    -webkit-text-fill-color: #fff;
+    -webkit-box-shadow: 0 0 0px 1000px #722fea inset;
+    caret-color: #fff;
+}
+
+.contenedor-inputs input:focus, textarea:focus {
+    outline: 1px solid #392166;
+    box-shadow: #2e2e2e 0px 0px 10px 0px;
+}
+
+.seccion-izquierda input {
+    height: 45px;
+    width: 280px;
+}
+
+.seccion-izquierda .input:nth-of-type(1) {
+    margin-bottom: 30px;
+}
+
+.seccion-derecha textarea {
+    height: 180px;
+    width: 350px;
+    resize: none;
+}
+
+.seccion-derecha textarea::-webkit-scrollbar {
+    display: none;
+}
+
+.form button {
+    background: #e5cff7;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    border-radius: 25px;
+    height: 50px;
+    width: 230px;
+    box-shadow: 0px 3px 3px 0px #2e2e2e;
+    cursor: pointer;
+    position: relative;
+}
+
+.form button:hover {
+    background: #dcbff5;
+}
+
+.form button:active {
+    top: 2px;
+}

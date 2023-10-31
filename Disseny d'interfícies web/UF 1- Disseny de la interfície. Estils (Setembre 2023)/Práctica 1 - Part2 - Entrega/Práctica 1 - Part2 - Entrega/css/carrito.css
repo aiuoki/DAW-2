@@ -1,0 +1,122 @@
+.main {
+    text-align: center;
+    display: grid;
+    place-content: center;
+    padding-bottom: 1em;
+}
+
+.contenido {
+    display: flex;
+    align-items: center;
+}
+
+.cesta {
+    height: 600px;
+    width: 800px;
+    border-radius: 20px;
+    background: #a36af3;
+    margin-right: 5em;
+    text-align: left;
+    padding: 3em;
+    padding-top: 2.5em;
+}
+
+.cesta h3 {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 1em;
+}
+
+.producto {
+    height: 120px;
+    width: 700px;
+    background-color: #6f29d1;
+    border-radius: 20px;
+    margin-bottom: 2em;
+    padding: 1em;
+    display: flex;
+    align-items: center;
+}
+
+.producto img {
+    height: 90px;
+    margin-right: 2em;
+}
+
+.descripcion {
+    height: 60px;
+    width: 400px;
+    margin-right: 3em;
+    display: flex;
+    align-items: center;
+}
+
+.descripcion p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.precio {
+    background-color: pink;
+    height: 60px;
+    width: 80px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.precio p {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.subtotal {
+    height: 240px;
+    width: 400px;
+    border-radius: 20px;
+    background: #a36af3;
+    padding: 3em;
+    text-align: left;
+}
+
+.preciototal {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin-top: 0.6em;
+    margin-bottom: 1em;
+}
+
+.preciototal h3 {
+    font-size: 27px;
+    font-weight: 400;
+    margin-bottom: 1.5em;
+}
+
+.preciototal h3:nth-child(1) {
+    margin-right: 3.4em;
+    font-weight: 500;
+}
+
+.subtotal button {
+    margin-left: 2em;
+    background: #e5cff7;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    border-radius: 25px;
+    height: 50px;
+    width: 230px;
+    box-shadow: 0px 3px 3px 0px #2e2e2e;
+    cursor: pointer;
+    position: relative;
+}
+
+.subtotal button:hover {
+    background: #dcbff5;
+}
+
+.subtotal button:active {
+    top: 2px;
+}
