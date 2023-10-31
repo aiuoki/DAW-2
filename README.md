@@ -16,7 +16,7 @@
 - [📎 Práctica 1. Prototipado y estructura básica HTML.pdf](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Pr%C3%A1ctica%201.%20Prototipado%20y%20estructura%20b%C3%A1sica%20HTML.pdf/Pr%C3%A1ctica%201.%20Prototipado%20y%20estructura%20b%C3%A1sica%20HTML.pdf)
 - [📝 Practica 1 - Entrega](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Practica%201%20-%20Entrega/Entrega)
 - [📎 Práctica 1 - Part 2 - Incluyendo CSS a nuestro proyecto.pdf](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Pr%C3%A1ctica%201%20-%20Part%202%20-%20Incluyendo%20CSS%20a%20nuestro%20proyecto.pdf/Pr%C3%A1ctica%202.%20Incluyendo%20CSS%20a%20nuestro%20proyecto.pdf)
-- [📝 Práctica 1 - Part2 - Entrega](https://google.com)
+- [📝 Práctica 1 - Part2 - Entrega](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Pr%C3%A1ctica%201%20-%20Part2%20-%20Entrega)
 - [📝 Practica 1 - Part3 - Aplicant Bootstrap](https://google.com)
 
 ## Reptes
