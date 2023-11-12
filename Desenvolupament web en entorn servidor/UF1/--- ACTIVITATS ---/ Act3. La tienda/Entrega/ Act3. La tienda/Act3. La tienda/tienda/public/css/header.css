@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+
+/* estilo de todos los elementos de la pagina */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* estilo del body */
+body {
+    min-height: 100vh;
+    background: #327bc0;
+    background-size: cover;
+    background-position: center;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+/* estilo del header */
+.header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    background: #5f9ed8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    box-shadow: 0px 0px 15px 0px #000;
+}
+
+/* estilo del logo y la barra de navegacion */
+.logo,
+.navbar {
+    flex: 1;
+}
+
+/* estilo de la fuente del logo */
+.logo a {
+    font-size: 32px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+/* estilo del span del logo */
+.logo a span {
+    filter: blur(3px);
+}
+
+/* animacion y estilo del span del logo al pasar por encima */
+.logo a span:hover  {
+    filter: blur(0px);
+    transition: 0s;
+}
+
+/* estilo de la barra de navegacion */
+.navbar {
+    text-align: end;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 1.5em;
+}
+
+/* estilo de la fuente de la barra de navegacion */
+.navbar a,
+.navbar p {
+    position: relative;
+    font-size: 24px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+/* animacion y estilo de la fuente de la barra de navegacion antes de pasar por encima */
+.navbar a::before {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #fff;
+    transition: .3s;
+}
+
+/* estilo de la fuente de la barra de navegacion al pasar por encima */
+.navbar a:hover::before {
+    width: 100%;
+}
+
+/* si la ventana es menor o igual a 700px de ancho, se va a ocultar el header y a centrar el main */
+@media only screen and (max-width: 700px) {
+    .header {
+        display: none;
+    }
+    .main {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+/* si la ventana es menor o igual a 100px de alto, se va a ocultar el header */
+@media only screen and (max-height: 100px) {
+    .header {
+        display: none;
+    }
+}
+
+a {
+    position: relative;
+    font-size: 24px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 1em;
+}
+a::before {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #fff;
+    transition: .3s;
+}
+a:hover::before {
+    width: 100%;
+}
