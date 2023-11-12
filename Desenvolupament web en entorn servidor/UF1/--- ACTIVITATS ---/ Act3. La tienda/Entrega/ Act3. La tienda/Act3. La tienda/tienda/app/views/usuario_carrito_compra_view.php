@@ -95,6 +95,13 @@
         <div class="contenido">
             <h1>Carrito</h1>
             <table>
+                <thead>
+                    <tr>
+                        <th>producto</th>
+                        <th>cantidad</th>
+                        <th>precio</th>
+                    </tr>
+                </thead>
                 <tbody>
                         <?php
                             foreach($productos as $producto) {
