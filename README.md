@@ -26,8 +26,8 @@
 
 ## UF2.
 ### --- DOCUMENTOS ---
-- [📎 UF2. Funcionament ❗️](google.com)
-- [📎 UF2. Laravel Primeros pasos ❗️](google.com)
+- [📎 UF2. Funcionament](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF2/---%20DOCUMENTOS%20---/M07.%20UF2.pdf)
+- [📎 UF2. Laravel Primeros pasos](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF2/---%20DOCUMENTOS%20---/UF2.%20Laravel_%20primeros%20pasos.docx.pdf)
 ### --- EJEMPLOS ---
 - [📎 Laravel: App Tareas ❗️](google.com)
 - [📎 Laravel: App Tareas (seeder) ❗️](google.com)
