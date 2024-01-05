@@ -18,6 +18,17 @@
 - [📎 Práctica 1 - Part 2 - Incluyendo CSS a nuestro proyecto.pdf](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Pr%C3%A1ctica%201%20-%20Part%202%20-%20Incluyendo%20CSS%20a%20nuestro%20proyecto.pdf/Pr%C3%A1ctica%202.%20Incluyendo%20CSS%20a%20nuestro%20proyecto.pdf)
 - [📝 Práctica 1 - Part2 - Entrega](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Pr%C3%A1ctica%201%20-%20Part2%20-%20Entrega)
 - [📝 Practica 1 - Part3 - Aplicant Bootstrap](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Practica%201%20-%20Part3%20-%20Aplicant%20Bootstrap)
+- [📎 Disseny_Web_Multimedia_Part1.pdf ❗](google.com)
+- [📎 Disseny_Web_Multimedia_Part2.pdf ❗](google.com)
+- [📝 Activitat 3 Repaso HTML-CSS ❗](google.com)
+- [📎 Activitat 4 Repaso HTML-CSS.pdf ❗](google.com)
+- [📝 Activitat 4 Repaso HTML-CSS Entrega ❗](google.com)
+- [📎 Practica2 UF1.pdf ❗](google.com)
+- [📝 Practica 2 UF1 Entrega ❗](google.com)
+- [📝 Entrega Parcial 1 ❗](google.com)
+- [📝 EventoMania - Interfaz Gráfica con HTML+CSS+Bootstrap ❗](google.com)
+- [📎 Prototype Parcial2 ❗](google.com)
+- [📝 Entrega Parcial 2❗](google.com)
 
 ## Reptes
 - [📎 Repte1_3D_Image.png](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/Reptes/Repte1_3D_Image.png/Repte1_3D_Image.png)
