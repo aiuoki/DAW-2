@@ -7,8 +7,8 @@
 - [🗎 Recursos desarrollo web](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/Material/Recursos%20desarrollo%20web.pdf)
 - [📎 Presentació inicial](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/Material/Presentaci%C3%B3%20inicial/Presentaci%C3%B3%20inicial.pdf)
 - [📎 Ejemplo.PHP.zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/Material/EjemploPHP.zip)
-- [📎 MVCPHP.rar ❗️](google.com)
-- [📎 create.blade.php ❗️](google.com)
+- [📎 MVCPHP.rar](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/Material/MVCPHP.rar)
+- [📎 create.blade.php](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/Material/create.blade.php)
 
 ## UF1.
 ### --- APUNTS ---
