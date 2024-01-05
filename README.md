@@ -10,5 +10,5 @@
 - [📝 Práctica 4: Documentaciones](https://github.com/aiuoki/DAW-2/tree/Desplegament-d'aplicacions-web/UF4%20Control%20de%20versions%20i%20documentaci%C3%B3/Pr%C3%A1ctica%204%20Documentaciones)
 
 ## Unitat Formativa 1: Servidors web i de transferència de fitxers
-- [📝 Pràctica 1: Comandos FTP -> FALTA](google.com)
-- [📝 Pràctica 2: Filezilla FTP -> FALTA](google.com)
+- [📝 Pràctica 1: Comandos FTP ❗️](google.com)
+- [📝 Pràctica 2: Filezilla FTP ❗️](google.com)
