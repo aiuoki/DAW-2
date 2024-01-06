@@ -28,8 +28,8 @@
 - [📝 Entrega Parcial 1 ❗](google.com)
 - [📝 EventoMania - Interfaz Gráfica con HTML+CSS+Bootstrap ❗](google.com)
 - [📎 Prototype Parcial2](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Prototype%20Parcial2/Prototype.zip)
-- [📝 Entrega Parcial 2❗](google.com)
+- [📝 Entrega Parcial 2 ❗](google.com)
 
 ## Reptes
 - [📎 Repte1_3D_Image.png](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/Reptes/Repte1_3D_Image.png/Repte1_3D_Image.png)
-- [📝 Repte1_3D_Image_Entrega](https://google.com)
+- [📝 Repte1_3D_Image_Entrega ❗](https://google.com)
