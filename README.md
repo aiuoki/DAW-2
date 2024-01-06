@@ -25,6 +25,19 @@
  - [📎 VideoTutorial.zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF1.%20Sintaxi%20del%20llenguatge.%20Objectes%20predefinits%20del%20llenguatge/VideoTutorial.zip)
 
 ## UF2. Estructures definides pel programador. Objectes
+- [📝 Directivas de atributo ❗](google.com)
+- [📎 Ejemplo Directivas Atributo.zip](google.com)
+- [📝 EventoMania ❗](google.com)
+- [📎 EventoMania.zip](google.com)
+- [📎 EventoMania (Solucion).zip](google.com)
+### @Inputs & @Outputs
+- [📎 GaleriaFotos.zip](google.com)
+- [📎 GaleriaFotos (Inputs).zip](google.com)
+- [📎 GaleriaFotos (Inputs y Outputs).zip](google.com)
+- [📝 EventoMania 2 (Con Inputs y Outputs) ❗](google.com)
+- [📝 Kanban Board 1 (input - output) ❗](google.com)
+- [📎 FormsSample.zip](google.com)
+- [📝 Kanban Board 2 (input - output) ❗](google.com)
 
 ## UF3. Esdeveniments. Manegament de formularis. Model d’objectes del document
 
