@@ -33,3 +33,4 @@
 - [📎 Teoria Angular](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/Recursos/Teoria%20Angular/Teoria%20Angular.pdf)
 - [📎 Manual Angular 4](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/Recursos/Manual%20Angular%204/Angular%204%20desde%20Cero%20-%20Pedro%20Jim%C3%A9nez%20Castela.pdf)
 - [📎 Framework Vs. Librería](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/Recursos/Framework%20Vs.%20Librer%C3%ADa/framework%20vs%20libreria-2.jpeg)
+- [📎 Typescript_Jumpstart_Book_231024_194403.pdf](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/Recursos/Typescript_Jumpstart_Book_231024_194403.pdf)
