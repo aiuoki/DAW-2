@@ -12,9 +12,9 @@
 
 ## UF2. Estructures definides pel programador. Objectes
 - [📝 Directivas de atributo 🪬](google.com)
-- [📝 EventoMania ❗](google.com)
+- [📝 EventoMania](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/EventoMania/Entrega)
 ### @Inputs & @Outputs
-- [📝 EventoMania 2 (Con Inputs y Outputs) ❗](google.com)
+- [📝 EventoMania 2 (Con Inputs y Outputs)](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/%20EventoMania%202%20(Con%20Inputs%20y%20Outputs)/Entrega)
 - [📝 Kanban Board 1 (input - output)](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/Kanban%20Board%201%20(input%20-%20output)/Entrega)
 - [📝 Kanban Board 2 (input - output)](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/Kanban%20Board%202%20(input%20-%20output)/Entrega)
 
