@@ -11,12 +11,12 @@
  - [📝 Validación UF1](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF1.%20Sintaxi%20del%20llenguatge.%20Objectes%20predefinits%20del%20llenguatge/Validaci%C3%B3n%20UF1/Entrega)
 
 ## UF2. Estructures definides pel programador. Objectes
-- [📝 Directivas de atributo ❗](google.com)
+- [📝 Directivas de atributo 🪬](google.com)
 - [📝 EventoMania ❗](google.com)
 ### @Inputs & @Outputs
 - [📝 EventoMania 2 (Con Inputs y Outputs) ❗](google.com)
-- [📝 Kanban Board 1 (input - output) ❗](google.com)
-- [📝 Kanban Board 2 (input - output) ❗](google.com)
+- [📝 Kanban Board 1 (input - output)](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/Kanban%20Board%201%20(input%20-%20output)/Entrega)
+- [📝 Kanban Board 2 (input - output)](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/Kanban%20Board%202%20(input%20-%20output)/Entrega)
 
 ## UF3. Esdeveniments. Manegament de formularis. Model d’objectes del document
 
