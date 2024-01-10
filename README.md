@@ -35,3 +35,4 @@
 - [📝 Act1. Primer CRUD con Laravel ❗️](google.com)
 - [📝 Act. Middleware en Laravel ❗️](google.com)
 - [📝 Act2. Seeder + Middleware ❗️](google.com)
+- [📝 Práctica Final ❗️](google.com)
