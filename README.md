@@ -27,7 +27,7 @@
 ## UF2. Estructures definides pel programador. Objectes
 - [📝 Directivas de atributo 🪬](google.com)
 - [📎 Ejemplo Directivas Atributo.zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/Ejemplo%20Directivas%20Atributo.zip)
-- [📝 EventoMania ❗](google.com)
+- [📝 EventoMania](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/EventoMania)
 - [📎 EventoMania.zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/EventoMania.zip)
 - [📎 EventoMania (Solucion).zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/EventoMania%20(Solucion).zip)
 ### @Inputs & @Outputs
