@@ -25,7 +25,7 @@
  - [📎 VideoTutorial.zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF1.%20Sintaxi%20del%20llenguatge.%20Objectes%20predefinits%20del%20llenguatge/VideoTutorial.zip)
 
 ## UF2. Estructures definides pel programador. Objectes
-- [📝 Directivas de atributo ❗](google.com)
+- [📝 Directivas de atributo 🪬](google.com)
 - [📎 Ejemplo Directivas Atributo.zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/Ejemplo%20Directivas%20Atributo.zip)
 - [📝 EventoMania ❗](google.com)
 - [📎 EventoMania.zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/EventoMania.zip)
@@ -35,12 +35,12 @@
 - [📎 GaleriaFotos (Inputs).zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/GaleriaFotos%20(Inputs).zip)
 - [📎 GaleriaFotos (Inputs y Outputs).zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/GaleriaFotos%20(Outputs).zip)
 - [📝 EventoMania 2 (Con Inputs y Outputs) ❗](google.com)
-- [📝 Kanban Board 1 (input - output) ❗](google.com)
+- [📝 Kanban Board 1 (input - output)](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/Kanban%20Board%201%20(input%20-%20output))
 - [📎 FormsSample.zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/FormsSample.zip)
-- [📝 Kanban Board 2 (input - output) ❗](google.com)
+- [📝 Kanban Board 2 (input - output)](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF2.%20Estructures%20definides%20pel%20programador.%20Objectes/Kanban%20Board%202%20(input%20-%20output))
 
 ## UF3. Esdeveniments. Manegament de formularis. Model d’objectes del document
-- [📎 Ejemplo Routing.zip ❗](google.com)
+- [📎 Ejemplo Routing.zip](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-client/Desenvolupament%20web%20en%20entorn%20client/M%C3%B3dulos/UF3.%20Esdeveniments.%20Manegament%20de%20formularis.%20Model%20d%E2%80%99objectes%20del%20document/Ejemplo%20Routing.zip)
 
 ## UF4. Comunicació asíncrona client-servidor
 
