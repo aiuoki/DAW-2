@@ -32,7 +32,7 @@
 - [📎 Laravel: App Tareas](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF2/---%20EJEMPLOS%20---/first-app.rar)
 - [📎 Laravel: App Tareas (seeder)](https://github.com/aiuoki/DAW-2/blob/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF2/---%20EJEMPLOS%20---/first-app-seeder.rar)
 ### --- ACTIVITATS ---
-- [📝 Act1. Primer CRUD con Laravel ❗️](google.com)
+- [📝 Act1. Primer CRUD con Laravel](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF2/Act1.%20Primer%20CRUD%20con%20Laravel)
 - [📝 Act. Middleware en Laravel ❗️](google.com)
 - [📝 Act2. Seeder + Middleware ❗️](google.com)
 - [📝 Práctica Final ❗️](google.com)
