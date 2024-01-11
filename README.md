@@ -31,7 +31,7 @@
 - [📝 Entrega Parcial 2 🧤](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Parcial%202)
 
 ## UF2- FASE 1- Creació i Disseny de Una Web
-- [📝 Elevator pitch - Creación de una página web ❗](google.com)
+- [📝 Elevator pitch - Creación de una página web](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF2-%20FASE%201-%20Creaci%C3%B3%20i%20Disseny%20de%20Una%20Web/Elevator%20pitch%20-%20Creaci%C3%B3n%20de%20una%20p%C3%A1gina%20web/Entrega)
 - [📎 Web Design Canvas.docx](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF2-%20FASE%201-%20Creaci%C3%B3%20i%20Disseny%20de%20Una%20Web/Web%20Design%20Canvas.docx/Web%20Design%20Canvas.docx)
 
 ## Reptes
