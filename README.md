@@ -25,7 +25,7 @@
 - [📝 Activitat 4 Repaso HTML-CSS Entrega ❗](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Activitat%204%20Repaso%20HTML-CSS/Entrega)
 - [📎 Practica2 UF1.pdf](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Practica2%20UF1.pdf/Practica2%20UF1.pdf)
 - [📝 Practica 2 UF1 Entrega 🧤](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Practica%202%20UF1%20Entrega/Entrega)
-- [📝 Entrega Parcial 1 ❗](google.com)
+- [📝 Entrega Parcial 1](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Entrega%20Parcial%201/Entrega)
 - [📝 EventoMania - Interfaz Gráfica con HTML+CSS+Bootstrap ❗](google.com)
 - [📎 Prototype Parcial2](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Prototype%20Parcial2/Prototype.zip)
 - [📝 Entrega Parcial 2 ❗](google.com)
