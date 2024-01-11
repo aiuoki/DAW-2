@@ -28,7 +28,7 @@
 - [📝 Entrega Parcial 1](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Entrega%20Parcial%201/Entrega)
 - [📝 EventoMania - Interfaz Gráfica con HTML+CSS+Bootstrap](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/EventoMania%20-%20Interfaz%20Gr%C3%A1fica%20con%20HTML%2BCSS%2BBootstrap/Entrega)
 - [📎 Prototype Parcial2](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Prototype%20Parcial2/Prototype.zip)
-- [📝 Entrega Parcial 2 ❗](google.com)
+- [📝 Entrega Parcial 2 🧤](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Parcial%202)
 
 ## UF2- FASE 1- Creació i Disseny de Una Web
 - [📝 Elevator pitch - Creación de una página web ❗](google.com)
