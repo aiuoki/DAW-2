@@ -11,7 +11,7 @@
 - [📝 Practica 1 - Part1 - Entrega](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Practica%201%20-%20Entrega/Entrega)
 - [📝 Práctica 1 - Part2 - Entrega](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Pr%C3%A1ctica%201%20-%20Part2%20-%20Entrega)
 - [📝 Practica 1 - Part3 - Aplicant Bootstrap](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Practica%201%20-%20Part3%20-%20Aplicant%20Bootstrap)
-- [📝 Activitat 3 Repaso HTML-CSS ❗](google.com)
+- [📝 Activitat 3 Repaso HTML-CSS](https://github.com/aiuoki/DAW-2/tree/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF%201-%20Disseny%20de%20la%20interf%C3%ADcie.%20Estils%20(Setembre%202023)/Activitat%203%20Repaso%20HTML-CSS/Entrega)
 - [📝 Activitat 4 Repaso HTML-CSS Entrega ❗](google.com)
 - [📝 Practica 2 UF1 Entrega ❗](google.com)
 - [📝 Entrega Parcial 1 ❗](google.com)
