@@ -15,3 +15,4 @@
 - [📝 Act1. Primer CRUD con Laravel](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF2/Act1.%20Primer%20CRUD%20con%20Laravel/Entrega)
 - [📝 Act. Middleware en Laravel ❗️](google.com)
 - [📝 Act2. Seeder + Middleware ❗️](google.com)
+- [📝 Práctica Final ❗️](google.com)
