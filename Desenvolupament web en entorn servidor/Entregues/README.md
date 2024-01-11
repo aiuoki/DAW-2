@@ -9,7 +9,7 @@
 - [📝 Act2. Modelo-Vista-Controlador en PHP](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF1/---%20ACTIVITATS%20---/Act2.%20Modelo-Vista-Controlador%20en%20PHP/Entrega)
 - [📝 Act3. La tienda](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF1/---%20ACTIVITATS%20---/%20Act3.%20La%20tienda/Entrega)
 - [📝 Validación teoría ❗️](google.com)
-- [📝 Validación práctica ❗️](google.com)
+- [📝 Validación práctica](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF1/---%20ACTIVITATS%20---/Validaci%C3%B3n%20pr%C3%A1ctica/Entrega)
 
 ## UF2.
 - [📝 Act1. Primer CRUD con Laravel](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF2/Act1.%20Primer%20CRUD%20con%20Laravel/Entrega)
