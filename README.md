@@ -21,8 +21,8 @@
 - [📝 Act1. Primer proyecto PHP (P2)](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF1/---%20ACTIVITATS%20---/Act1.%20Primer%20proyecto%20PHP%20(P2))
 - [📝 Act2. Modelo-Vista-Controlador en PHP](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF1/---%20ACTIVITATS%20---/Act2.%20Modelo-Vista-Controlador%20en%20PHP)
 - [📝 Act3. La tienda](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF1/---%20ACTIVITATS%20---/%20Act3.%20La%20tienda)
-- [📝 Validación teoría ❗️](google.com)
-- [📝 Validación práctica 🧤](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF1/---%20ACTIVITATS%20---/Validaci%C3%B3n%20pr%C3%A1ctica)
+- [📝 Validación teoría](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF1/---%20ACTIVITATS%20---/Validacio%CC%81n%20teori%CC%81a)
+- [📝 Validación práctica](https://github.com/aiuoki/DAW-2/tree/Desenvolupament-web-en-entorn-servidor/Desenvolupament%20web%20en%20entorn%20servidor/UF1/---%20ACTIVITATS%20---/Validaci%C3%B3n%20pr%C3%A1ctica)
 
 ## UF2.
 ### --- DOCUMENTOS ---
