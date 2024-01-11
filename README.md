@@ -32,7 +32,7 @@
 
 ## UF2- FASE 1- Creació i Disseny de Una Web
 - [📝 Elevator pitch - Creación de una página web ❗](google.com)
-- [📎 Web Design Canvas.docx ❗](google.com)
+- [📎 Web Design Canvas.docx](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/UF2-%20FASE%201-%20Creaci%C3%B3%20i%20Disseny%20de%20Una%20Web/Web%20Design%20Canvas.docx/Web%20Design%20Canvas.docx)
 
 ## Reptes
 - [📎 Repte1_3D_Image.png](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/Reptes/Repte1_3D_Image.png/Repte1_3D_Image.png)
