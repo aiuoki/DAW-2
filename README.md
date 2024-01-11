@@ -36,4 +36,4 @@
 
 ## Reptes
 - [📎 Repte1_3D_Image.png](https://github.com/aiuoki/DAW-2/blob/Disseny-d'interf%C3%ADcies-web/Disseny%20d'interf%C3%ADcies%20web/Reptes/Repte1_3D_Image.png/Repte1_3D_Image.png)
-- [📝 Repte1_3D_Image_Entrega ❗](https://google.com)
+- [📝 Repte1_3D_Image_Entrega 🪬](https://google.com)
