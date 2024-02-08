@@ -1,0 +1,1 @@
+- [📝 Entrega](https://www.figma.com/file/pftvyaHeTSOejhfIKOw7xI/VoteIT?type=design&node-id=0%3A1&mode=design&t=SqhO63eLaS8uihkj-1)
